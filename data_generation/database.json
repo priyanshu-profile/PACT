@@ -1,0 +1,372 @@
+{
+    "package1": {
+        "Tourist_Package_Name": "TranquilEscape",
+        "Description": "You enjoy vacations where you can get away from it all in order to relax in quiet and peaceful places",
+        "Services": {
+            "accommodation": {
+                "private villa": 25000,
+                "cozy cottage": 15000,
+                "premium suite": 8000,
+		        "economy suite": 4000
+            },
+            "meals": {
+                "private dining": 15000,
+                "fine dining": 9000,
+                "gourmet buffet": 6000,
+		        "premium buffet": 3000
+            },
+            "transportation": {
+                "private luxury": 30000,
+                "private standard": 15000,
+                "mini-bus": 8000,
+		        "bus": 5000
+            }
+        },
+
+
+
+        "Optional_amenities": [ "specific", "recreational", "wellness","leisure","personalized"],
+
+	    "options": [
+			    [ ["scenic locations",521],["indoor sports and fitness",669],["spa and wellness facilities",732],["reading retreats",482],["customized itenaries",787]],			
+			    [ ["tranquil retreats",2218],["game room",1960],["yoga and meditation sessions",2277],["art and crafts workshop",2008],["surprise and delight gestures",2491]],
+			    [ ["adventure",3404],["entertainment shows and performances",3437],["nutritional counselling",3233],["stargazing and astronomy nights",3023],["celebratory packages",3670]],
+			    [ ["nature therapy",4932],["outdoor activities",4943],["detoxification and mindfulness session",4913],["photography tour",4587],["personal assistance",5162]]]
+	
+
+    },
+
+    "package2": {
+        "Tourist_Package_Name": "SightTour",
+        "Description": "Always ready to stop for that landmark, event, scenic vista or attraction",
+        "Services": {
+            "accommodation": {
+                "private villa": 25000,
+                "cozy cottage": 15000,
+                "premium suite": 8000,
+		        "economy suite": 4000
+            },
+            "meals": {
+                "private dining": 15000,
+                "fine dining": 9000,
+                "gourmet buffet": 6000,
+		        "premium buffet": 3000
+            },
+            "transportation": {
+                "private luxury": 30000,
+                "private standard": 15000,
+                "mini-bus": 8000,
+		        "bus": 5000
+            }
+        },
+
+
+
+        "Optional_amenities": [ "specific", "recreational", "wellness","leisure","personalized"],
+
+	    "options": [
+			    [ ["history and information guides",532],["indoor sports and fitness",732],["spa and wellness facilities",675],["reading retreats",560],["customized itenaries",790]],			
+			    [ ["souvenir gifts",2342],["game room",1878],["yoga and meditation sessions",2435],["art and crafts workshop",1987],["surprise and delight gestures",2630]],
+			    [ ["local guides",3564],["entertainment shows and performances",3743],["nutritional counselling",3189],["stargazing and astronomy nights",3298],["celebratory packages",3654]],
+			    [ ["virtual reality experiences",5120],["outdoor activities",4943],["detoxification and mindfulness session",4913],["photography tour",4587],["personal assistance",5162]]]
+	
+
+    },
+
+    "package3": {
+        "Tourist_Package_Name": "Collector's Haven",
+        "Description": "Shops, antiques, gifts...a passionate collector of travel memories through shopping",
+        "Services": {
+            "accommodation": {
+                "private villa": 25000,
+                "cozy cottage": 15000,
+                "premium suite": 8000,
+		        "economy suite": 4000
+            },
+            "meals": {
+                "private dining": 15000,
+                "fine dining": 9000,
+                "gourmet buffet": 6000,
+		        "premium buffet": 3000
+            },
+            "transportation": {
+                "private luxury": 30000,
+                "private standard": 15000,
+                "mini-bus": 8000,
+		        "bus": 5000
+            }
+        },
+
+
+
+        "Optional_amenities": [ "specific", "recreational", "wellness","leisure","personalized"],
+
+	    "options": [
+			    [ ["gift shops map",547],["indoor sports and fitness",674],["spa and wellness facilities",732],["reading retreats",482],["customized itenaries",787]],			
+			    [ ["souvenir gifts",2493],["game room",1960],["yoga and meditation sessions",2277],["art and crafts workshop",2008],["surprise and delight gestures",2491]],
+			    [ ["personalised merchandise ",3823],["entertainment shows and performances",3437],["nutritional counselling",3233],["stargazing and astronomy nights",3023],["celebratory packages",3670]],
+			    [ ["shipping and packing assistance",4845],["outdoor activities",4943],["detoxification and mindfulness session",4913],["photography tour",4587],["personal assistance",5162]]]
+	
+
+    },
+
+    "package4": {
+        "Tourist_Package_Name": "Adrenaline Rush",
+        "Description": "Interested in risky, exhilarating activities which provides emotional highs",
+        "Services": {
+            "accommodation": {
+                "private villa": 25000,
+                "cozy cottage": 15000,
+                "premium suite": 8000,
+		        "economy suite": 4000
+            },
+            "meals": {
+                "private dining": 15000,
+                "fine dining": 9000,
+                "gourmet buffet": 6000,
+		        "premium buffet": 3000
+            },
+            "transportation": {
+                "private luxury": 30000,
+                "private standard": 15000,
+                "mini-bus": 8000,
+		        "bus": 5000
+            }
+        },
+
+
+
+        "Optional_amenities": [ "specific", "recreational", "wellness","leisure","personalized"],
+
+	    "options": [
+			    [ ["bungee jumping",654],["indoor sports and fitness",669],["spa and wellness facilities",732],["reading retreats",482],["customized itenaries",787]],			
+			    [ ["skydiving",2593],["game room",1960],["yoga and meditation sessions",2277],["art and crafts workshop",2008],["surprise and delight gestures",2491]],
+			    [ ["adventure photography",3872],["entertainment shows and performances",3437],["nutritional counselling",3233],["stargazing and astronomy nights",3023],["celebratory packages",3670]],
+			    [ ["adventure concierge",5132],["outdoor activities",4943],["detoxification and mindfulness session",4913],["photography tour",4587],["personal assistance",5162]]]
+	
+
+    },
+
+    "package5": {
+        "Tourist_Package_Name": "Vibrant Nightlife",
+        "Description": "A person who goes where the action is. Loves night clubs, good restaurants and entertainment",
+        "Services": {
+            "accommodation": {
+                "private villa": 25000,
+                "cozy cottage": 15000,
+                "premium suite": 8000,
+		        "economy suite": 4000
+            },
+            "meals": {
+                "private dining": 15000,
+                "fine dining": 9000,
+                "gourmet buffet": 6000,
+		        "premium buffet": 3000
+            },
+            "transportation": {
+                "private luxury": 30000,
+                "private standard": 15000,
+                "mini-bus": 8000,
+		        "bus": 5000
+            }
+        },
+
+
+
+        "Optional_amenities": [ "specific", "recreational", "wellness","leisure","personalized"],
+
+	    "options": [
+			    [ ["restaurant reservations",569],["indoor sports and fitness",669],["spa and wellness facilities",732],["reading retreats",482],["customized itenaries",787]],			
+			    [ ["mixology classes and cocktail workshops",2190],["game room",1960],["yoga and meditation sessions",2277],["art and crafts workshop",2008],["surprise and delight gestures",2491]],
+			    [ ["live entertainment tickets",3590],["entertainment shows and performances",3437],["nutritional counselling",3233],["stargazing and astronomy nights",3023],["celebratory packages",3670]],
+			    [ ["nightlife concierge",4897],["outdoor activities",4943],["detoxification and mindfulness session",4913],["photography tour",4587],["personal assistance",5162]]]
+	
+
+    },
+
+"package6": {
+    "Tourist_Package_Name": "Cultural Odyssey",
+    "Description": "love everything cultural, theater, shows, museums, festivals and fairs, and local culture",
+    "Services": {
+        "accommodation": {
+            "private villa": 25000,
+            "cozy cottage": 15000,
+            "premium suite": 8000,
+            "economy suite": 4000
+        },
+        "meals": {
+            "private dining": 15000,
+            "fine dining": 9000,
+            "gourmet buffet": 6000,
+            "premium buffet": 3000
+        },
+        "transportation": {
+            "private luxury": 30000,
+            "private standard": 15000,
+            "mini-bus": 8000,
+            "bus": 5000
+        }
+    },
+
+
+
+    "Optional_amenities": [ "specific", "recreational", "wellness","leisure","personalized"],
+
+    "options": [
+            [ ["museum passes",632],["indoor sports and fitness",669],["spa and wellness facilities",732],["reading retreats",482],["customized itenaries",787]],			
+            [ ["traditional ceremonies",2342],["game room",1960],["yoga and meditation sessions",2277],["art and crafts workshop",2008],["surprise and delight gestures",2491]],
+            [ ["cultural festivals",3404],["entertainment shows and performances",3437],["nutritional counselling",3233],["stargazing and astronomy nights",3023],["celebratory packages",3670]],
+            [ ["cultural heritage trails",4932],["outdoor activities",4943],["detoxification and mindfulness session",4913],["photography tour",4587],["personal assistance",5162]]]
+
+
+},
+
+"package7": {
+    "Tourist_Package_Name": "Nautical Adventure",
+    "Description": "world is on the water, boat is the home, feeling the breeze",
+    "Services": {
+        "accommodation": {
+            "floating villa stay": 25000,
+            "waterfront accommodations": 15000,
+            "premium suite": 8000,
+            "economy suite": 4000
+        },
+        "meals": {
+            "seafood dining": 15000,
+            "fine dining": 9000,
+            "gourmet buffet": 6000,
+            "premium buffet": 3000
+        },
+        "transportation": {
+            "private luxury": 30000,
+            "private standard": 15000,
+            "mini-bus": 8000,
+            "bus": 5000
+        }
+    },
+
+
+
+    "Optional_amenities": [ "specific", "recreational", "wellness","leisure","personalized"],
+
+    "options": [
+            [ ["sailing lessons",672],["indoor sports and fitness",669],["spa and wellness facilities",732],["reading retreats",482],["customized itenaries",787]],			
+            [ ["fishing charters",2345],["game room",1960],["yoga and meditation sessions",2277],["art and crafts workshop",2008],["surprise and delight gestures",2491]],
+            [ ["sunset cruises",3567],["entertainment shows and performances",3437],["nutritional counselling",3233],["stargazing and astronomy nights",3023],["celebratory packages",3670]],
+            [ ["snorkeling and diving excursions",4993],["water sports",4943],["detoxification and mindfulness session",4913],["photography tour",4587],["private yacht rental",5162]]]
+
+
+},
+
+"package8": {
+    "Tourist_Package_Name": "Active Pursuits",
+    "Description": "remaining active in the favourite sport, whether is it golf, tennis, football or badminton, etc",
+    "Services": {
+        "accommodation": {
+            "private villa": 25000,
+            "cozy cottage": 15000,
+            "premium suite": 8000,
+            "economy suite": 4000
+        },
+        "meals": {
+            "private dining": 15000,
+            "fine dining": 9000,
+            "gourmet buffet": 6000,
+            "premium buffet": 3000
+        },
+        "transportation": {
+            "private luxury": 30000,
+            "private standard": 15000,
+            "mini-bus": 8000,
+            "bus": 5000
+        }
+    },
+
+
+
+    "Optional_amenities": [ "specific", "recreational", "wellness","leisure","personalized"],
+
+    "options": [
+            [ ["badminton court access",521],["fitness center",669],["spa and wellness facilities",732],["reading retreats",482],["customized itenaries",787]],			
+            [ ["football facilities",2218],["rock climbing",1960],["yoga and meditation sessions",2277],["group exercise classes",2008],["surprise and delight gestures",2491]],
+            [ ["tennis court access",3404],["swimming pool",3437],["nutritional counselling",3233],["water sports",3023],["celebratory packages",3670]],
+            [ ["golf course access",4932],["cycling tours",4943],["detoxification and mindfulness session",4913],["guided hiking and running trails",4587],["personal training sessions",5162]]]
+
+
+},
+
+"package9": {
+    "Tourist_Package_Name": "Nature Wanderer",
+    "Description": "outdoors, hiking, walking, parks, forests, mountains, birdwatching, etc",
+    "Services": {
+        "accommodation": {
+            "private villa": 25000,
+            "cozy cottage": 15000,
+            "premium suite": 8000,
+            "economy suite": 4000
+        },
+        "meals": {
+            "private dining": 15000,
+            "fine dining": 9000,
+            "gourmet buffet": 6000,
+            "premium buffet": 3000
+        },
+        "transportation": {
+            "private luxury": 30000,
+            "private standard": 15000,
+            "mini-bus": 8000,
+            "bus": 5000
+        }
+    },
+
+
+
+    "Optional_amenities": [ "specific", "recreational", "wellness","leisure","personalized"],
+
+    "options": [
+            [ ["nature walks",544],["zip lining",669],["spa and wellness facilities",732],["reading retreats",482],["customized itenaries",787]],			
+            [ ["rock climbing",2218],["fishing trips",1960],["yoga and meditation sessions",2277],["scenic drives",2008],["surprise and delight gestures",2491]],
+            [ ["guided hiking tours",3404],["geocaching",3437],["nutritional counselling",3233],["stargazing and astronomy nights",3023],["celebratory packages",3670]],
+            [ ["kayaking and canoeing",4932],["forest retreats",4943],["detoxification and mindfulness session",4913],["photography tour",4587],["personal assistance",5162]]]
+
+
+},
+
+"package10": {
+    "Tourist_Package_Name": "Sandy Serenity",
+    "Description": "relaxing and sunbathing in warm places with lots of sun, sand and water. Water sports",
+    "Services": {
+        "accommodation": {
+            "private villa": 25000,
+            "cozy cottage": 15000,
+            "premium suite": 8000,
+            "economy suite": 4000
+        },
+        "meals": {
+            "private dining": 15000,
+            "fine dining": 9000,
+            "gourmet buffet": 6000,
+            "premium buffet": 3000
+        },
+        "transportation": {
+            "private luxury": 30000,
+            "private standard": 15000,
+            "mini-bus": 8000,
+            "bus": 5000
+        }
+    },
+
+
+
+    "Optional_amenities": [ "specific", "recreational", "wellness","leisure","personalized"],
+
+    "options": [
+            [ ["water sports equipment rentals",573],["beach volleyball courts",669],["spa and wellness facilities",732],["hammocks and swings",482],["customized itenaries",787]],			
+            [ ["jet ski rentals",2618],["bonfire nights",1960],["yoga and meditation sessions",2277],["beach massages",2008],["surprise and delight gestures",2491]],
+            [ ["parasailing",3804],["live music and entertainment",3437],["nutritional counselling",3233],["stargazing and astronomy nights",3023],["celebratory packages",3670]],
+            [ ["snorkeling and diving excursions",5120],["glass-bottom boat tours",4943],["detoxification and mindfulness session",4913],["sunset cruises",4587],["private beach access",5162]]]
+
+
+}
+
+}
