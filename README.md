@@ -2,7 +2,7 @@ This repository contains the dataset and code for our paper titled [We Argue to 
 ]()
 
 ## Dataset Generation Code
-The code for data generation can be found in "dataset_generation" folder.
+The code for data generation can be found in the "dataset_generation" folder.
 
 
 ## Dataset Request Access
