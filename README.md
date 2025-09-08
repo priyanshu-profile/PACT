@@ -7,7 +7,7 @@ The code for data generation can be found in "dataset_generation" folder.
 
 ## Dataset Request Access
 
-The sample dataset can be found in sample_PACT.csv. 
+The sample dataset can be found in "sample_PACT.csv" under the "Data" folder. 
 
 To request full data access, fill out the agreement form [linked here](https://www.iitp.ac.in/~ai-nlp-ml/resources.html).
 
